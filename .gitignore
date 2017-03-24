@@ -57,3 +57,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# DO NOT PUSH THE FOLLOWING
+css/
