@@ -1,6 +1,6 @@
 # 🐶 Einstein
 
-> Einstein is a project starter structure based on ITCSS. Einstein doesn't contain any styled components, as I think, each site is different and so the styled components should be styled different. There's no 101 for how to style components, in my POV.
+> Einstein is a project starter structure based on ITCSS. Einstein doesn't contain any styled components, as I think, each site is different and so the styled components should be treated differently. There's no 101 for how to style components, in my POV.
 
 ## Structure
 
