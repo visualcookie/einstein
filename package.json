@@ -1,15 +1,9 @@
 {
   "name": "einstein",
-  "version": "1.0.0-a1",
-  "description": "sass boilerplate",
+  "version": "1.0.0-alpha.1",
+  "description": "Project starter structure based on ITCSS",
   "author": "Dean Hidri <hello@visualcookie.me>",
   "license": "MIT",
-  "scripts": {
-    "build-css": "node-sass --include-path scss scss/main.scss css/main.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\""
-  },
-  "devDependencies": {
-    "node-sass": "^4.5.1",
-    "nodemon": "^1.11.0"
-  }
+  "scripts": {},
+  "devDependencies": {}
 }
