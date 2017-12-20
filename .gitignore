@@ -58,5 +58,13 @@ typings/
 # dotenv environment variables file
 .env
 
-# DO NOT PUSH THE FOLLOWING
-css/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# Build directory
+dist/
